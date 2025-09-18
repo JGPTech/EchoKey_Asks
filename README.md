@@ -9,4 +9,4 @@ It’s a PR campaign where I go around asking questions about things I want to u
 If you think I'm cool, donate please:  
 [![Sponsor](https://img.shields.io/badge/Sponsor-Jon%20Poplett-purple?style=for-the-badge&logo=github)](https://github.com/sponsors/jgptech)  
 
-If you see me in the wild questing your assumptions, say hello!
+If you see me in the wild questioning your assumptions, say hello!
