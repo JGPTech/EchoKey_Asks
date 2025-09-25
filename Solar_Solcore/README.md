@@ -5,6 +5,9 @@
 
 ---
 
+If you think I'm cool, donate please:  
+[![Sponsor](https://img.shields.io/badge/Sponsor-Jon%20Poplett-purple?style=for-the-badge&logo=github)](https://github.com/sponsors/jgptech)  
+
 ## What this repo contains
 
 * `ek_solar_meta_pipeline.py` — a **derivation-first, reproducible** pipeline using **Solcore**:
@@ -150,3 +153,4 @@ python ek_solar_meta_pipeline.py --use_solcore \
 ## TL;DR
 
 Constrained, question-first LLM assistance selected a **safe optical preset** and **aggressive-but-plausible passivation/lifetime targets**, yielding a **repeatable efficiency lift** in a standard Solcore sandbox.
+
