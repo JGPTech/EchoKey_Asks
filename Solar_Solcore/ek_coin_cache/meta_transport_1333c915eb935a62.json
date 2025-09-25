@@ -1,0 +1,8 @@
+{
+  "S_front_eff": 80.0,
+  "S_back_eff": 220.0,
+  "mu_n_eff": 37.5,
+  "mu_p_eff": 12.5,
+  "tau_n_eff": 5e-08,
+  "tau_p_eff": 5e-08
+}

@@ -1,0 +1,21 @@
+{
+    "centers_nm": [
+        875.0
+    ],
+    "sigmas_nm": [
+        30.0
+    ],
+    "weights": [
+        1.0
+    ],
+    "gamma_k": 0.0,
+    "thickness_m": 9.5e-8,
+    "S_front_eff": 80.0,
+    "S_back_eff": 220.0,
+    "mu_n_eff": 30.0,
+    "mu_p_eff": 10.0,
+    "tau_n_eff": 5.0e-8,
+    "tau_p_eff": 5.0e-8,
+    "mu_n_mult": 1.25,
+    "mu_p_mult": 1.25
+}
