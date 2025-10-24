@@ -154,10 +154,6 @@ Do whatever you want — attribution appreciated but not required.
 
 ---
 
-Absolutely—here’s a drop-in replacement for the **Acknowledgment** section in your `README.md`, with a precise citation (plus an optional BibTeX block).
-
----
-
 ### Acknowledgment
 
 This demo is inspired by and builds on:
@@ -167,7 +163,7 @@ Milton Aguilar & Eric Lutz, **“Correlated quantum machines beyond the standard
 Any mistakes or simplifications here are our own.
 
 <details>
-<summary>BibTeX (optional)</summary>
+<summary>BibTeX</summary>
 
 ```bibtex
 @article{AguilarLutz2025SciAdv,
@@ -194,8 +190,8 @@ Any mistakes or simplifications here are our own.
 ```
 
 </details>
-::contentReference[oaicite:1]{index=1}
 
 [1]: https://www.science.org/doi/10.1126/sciadv.adw8462?utm_source=chatgpt.com "Correlated quantum machines beyond the standard ..."
 
 ---
+
