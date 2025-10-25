@@ -2,8 +2,8 @@
 
 **Repo contents**
 - `ek_engine_acoustic.py` — exact-stroke simulator (no Lindblad), with acoustic cooling leg and optional diagnostic control
-- `ek_engine_acoustic_experiment.tex` — experiment + hardware build guide
-- `ek_engine_acoustic_math_notes.tex` — detailed math walkthrough and thermodynamic ledger
+- `experiment.pdf` — experiment + hardware build guide
+- `notes.pdf` — detailed math walkthrough and thermodynamic ledger
 
 **License:** CC0-1.0 (public domain). Use freely.
 
@@ -192,3 +192,4 @@ Any mistakes or simplifications here are our own.
 [1]: https://www.science.org/doi/10.1126/sciadv.adw8462?utm_source=chatgpt.com "Correlated quantum machines beyond the standard ..."
 
 ---
+
